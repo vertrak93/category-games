@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameCategory.Infrastructure", "GameCategory.Infrastructure\GameCategory.Infrastructure.csproj", "{01077B13-1C76-462C-8D8C-69B802DEAE65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameCategory.API", "GameCategory.API\GameCategory.API.csproj", "{6D28A112-A7AF-451E-92E0-6994597EAB96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01077B13-1C76-462C-8D8C-69B802DEAE65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01077B13-1C76-462C-8D8C-69B802DEAE65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01077B13-1C76-462C-8D8C-69B802DEAE65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01077B13-1C76-462C-8D8C-69B802DEAE65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D28A112-A7AF-451E-92E0-6994597EAB96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D28A112-A7AF-451E-92E0-6994597EAB96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D28A112-A7AF-451E-92E0-6994597EAB96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D28A112-A7AF-451E-92E0-6994597EAB96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {225FEC3E-DA8E-40E1-97A8-45878335C937}
+	EndGlobalSection
+EndGlobal
